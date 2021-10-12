@@ -7,7 +7,7 @@
     "express": "^4.16.4"
   },
   "devDependencies": {
-    "electron": "^4.0.5"
+    "electron": "^11.5.0"
   },
   "scripts": {
     "start": "electron ."
